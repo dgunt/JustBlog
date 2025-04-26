@@ -1,0 +1,12 @@
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Domain\bin\Debug\net8.0\JustBlog.Domain.deps.json
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Domain\bin\Debug\net8.0\JustBlog.Domain.dll
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Domain\bin\Debug\net8.0\JustBlog.Domain.pdb
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Domain\obj\Debug\net8.0\JustBlog.Domain.csproj.AssemblyReference.cache
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Domain\obj\Debug\net8.0\JustBlog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Domain\obj\Debug\net8.0\JustBlog.Domain.AssemblyInfoInputs.cache
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Domain\obj\Debug\net8.0\JustBlog.Domain.AssemblyInfo.cs
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Domain\obj\Debug\net8.0\JustBlog.Domain.csproj.CoreCompileInputs.cache
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Domain\obj\Debug\net8.0\JustBlog.Domain.dll
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Domain\obj\Debug\net8.0\refint\JustBlog.Domain.dll
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Domain\obj\Debug\net8.0\JustBlog.Domain.pdb
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Domain\obj\Debug\net8.0\ref\JustBlog.Domain.dll

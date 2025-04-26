@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SQL_FSoft\\HaUI_Demo\\MinhVD24_JustBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{038C44EB-EB01-45E3-A926-40EDE363F9DA}|JustBlog.WebApp\\JustBlog.WebApp.csproj|e:\\sql_fsoft\\haui_demo\\minhvd24_justblog\\justblog.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{038C44EB-EB01-45E3-A926-40EDE363F9DA}|JustBlog.WebApp\\JustBlog.WebApp.csproj|solutionrelative:justblog.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7704927-FCB7-4F7B-B2B6-C93D558782FC}|JustBlog.Application\\JustBlog.Application.csproj|e:\\sql_fsoft\\haui_demo\\minhvd24_justblog\\justblog.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7704927-FCB7-4F7B-B2B6-C93D558782FC}|JustBlog.Application\\JustBlog.Application.csproj|solutionrelative:justblog.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038C44EB-EB01-45E3-A926-40EDE363F9DA}|JustBlog.WebApp\\JustBlog.WebApp.csproj|e:\\sql_fsoft\\haui_demo\\minhvd24_justblog\\justblog.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038C44EB-EB01-45E3-A926-40EDE363F9DA}|JustBlog.WebApp\\JustBlog.WebApp.csproj|solutionrelative:justblog.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\SQL_FSoft\\HaUI_Demo\\MinhVD24_JustBlog\\JustBlog.WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "JustBlog.WebApp\\appsettings.json",
+              "ToolTip": "E:\\SQL_FSoft\\HaUI_Demo\\MinhVD24_JustBlog\\JustBlog.WebApp\\appsettings.json",
+              "RelativeToolTip": "JustBlog.WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T16:50:19.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SQL_FSoft\\HaUI_Demo\\MinhVD24_JustBlog\\JustBlog.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "JustBlog.WebApp\\Program.cs",
+              "ToolTip": "E:\\SQL_FSoft\\HaUI_Demo\\MinhVD24_JustBlog\\JustBlog.WebApp\\Program.cs",
+              "RelativeToolTip": "JustBlog.WebApp\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:44:16.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\SQL_FSoft\\HaUI_Demo\\MinhVD24_JustBlog\\JustBlog.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "JustBlog.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "E:\\SQL_FSoft\\HaUI_Demo\\MinhVD24_JustBlog\\JustBlog.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "JustBlog.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:42:14.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

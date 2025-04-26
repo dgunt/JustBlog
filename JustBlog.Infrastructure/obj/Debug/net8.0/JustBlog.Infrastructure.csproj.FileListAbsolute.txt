@@ -1,0 +1,17 @@
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\bin\Debug\net8.0\JustBlog.Infrastructure.deps.json
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\bin\Debug\net8.0\JustBlog.Infrastructure.runtimeconfig.json
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\bin\Debug\net8.0\JustBlog.Infrastructure.dll
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\bin\Debug\net8.0\JustBlog.Infrastructure.pdb
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\bin\Debug\net8.0\JustBlog.Domain.dll
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\bin\Debug\net8.0\JustBlog.Domain.pdb
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\obj\Debug\net8.0\JustBlog.Infrastructure.csproj.AssemblyReference.cache
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\obj\Debug\net8.0\JustBlog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\obj\Debug\net8.0\JustBlog.Infrastructure.AssemblyInfoInputs.cache
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\obj\Debug\net8.0\JustBlog.Infrastructure.AssemblyInfo.cs
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\obj\Debug\net8.0\JustBlog.Infrastructure.csproj.CoreCompileInputs.cache
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\obj\Debug\net8.0\JustBlog.AFC250A2.Up2Date
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\obj\Debug\net8.0\JustBlog.Infrastructure.dll
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\obj\Debug\net8.0\refint\JustBlog.Infrastructure.dll
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\obj\Debug\net8.0\JustBlog.Infrastructure.pdb
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\obj\Debug\net8.0\JustBlog.Infrastructure.genruntimeconfig.cache
+E:\SQL_FSoft\HaUI_Demo\MinhVD24_JustBlog\JustBlog.Infrastructure\obj\Debug\net8.0\ref\JustBlog.Infrastructure.dll
